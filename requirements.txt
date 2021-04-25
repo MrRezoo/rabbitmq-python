@@ -1,0 +1,2 @@
+pika==1.2.0
+pika-stubs==0.1.3
