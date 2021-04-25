@@ -1,4 +1,4 @@
-# rabbitmq-python
+# rabbitMQ-python
 
 ![python](assets/rabbitmq-beginners-updated.png)
 
