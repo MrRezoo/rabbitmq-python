@@ -3,6 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 .idea/*
 .idea
+.vscode
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
